@@ -1,0 +1,4 @@
+python3-pyproject-metadata: copyright-without-copyright-notice
+python3-pyproject-metadata: initial-upload-closes-no-bugs
+python3-pyproject-metadata: no-manual-page
+python3-pyproject-metadata: zero-byte-file-in-doc-directory
