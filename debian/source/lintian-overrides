@@ -1,0 +1,5 @@
+python-pyproject-metadata source: file-without-copyright-information
+python-pyproject-metadata source: no-debian-changes
+python-pyproject-metadata source: source-contains-prebuilt-windows-binary
+python-pyproject-metadata source: source-is-missing
+python-pyproject-metadata source: source-package-encodes-python-version
